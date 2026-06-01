@@ -37,6 +37,6 @@ Criar algo inovador para ajudar alunos
 |Gideão|(scrum master)|
 |Kelvin|(Front-end)
 ## Links úteis
-- **Kanban (Trello):** [link]
+- **Kanban (Trello):** [link
 - **Protótipo (Figma):** [a preencher]
 - **Repositório:** [https://github.com/Vlnlxz/Programa-o.git]
